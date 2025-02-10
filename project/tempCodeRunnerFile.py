@@ -1,0 +1,1 @@
+        hotkeys = input("Hotkeys: ")
